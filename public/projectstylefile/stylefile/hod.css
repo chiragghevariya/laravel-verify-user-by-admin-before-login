@@ -1,0 +1,12 @@
+
+.admin-block{
+
+    margin: auto;
+
+    width: 290px;
+    height: 170px;
+    background:#EDE7F6;
+    text-align: center;
+    padding: 5.2em;
+    box-shadow: 3px 3px 3px #888888;
+}
