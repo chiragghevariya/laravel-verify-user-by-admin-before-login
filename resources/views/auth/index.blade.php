@@ -12,7 +12,8 @@
 		<div class="row">
 		
 		<div class="col-md-12 col-md-offset-5">
-
+		<br>
+		<br>
 			<a href="{{url('login')}}" class="btn btn-success">Login</a>
 			<a href="{{url('register')}}" class="btn btn-success">Register</a>
 
